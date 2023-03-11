@@ -1,0 +1,1 @@
+select Person { name, id };
